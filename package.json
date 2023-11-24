@@ -27,7 +27,7 @@
     "ethereumjs-utils": "^5.2.5",
     "ethereumjs-wallet": "^1.0.1",
     "ethers": "^5.3.0",
-    "hardhat": "^2.3.0",
+    "hardhat": "^2.19.1",
     "hardhat-gas-reporter": "^1.0.4",
     "prettier": "2.3.2",
     "prettier-plugin-solidity": "^1.0.0-beta.13",
