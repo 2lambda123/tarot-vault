@@ -2,7 +2,7 @@ repo_name: 2lambda123/tarot-vault
 report_id: 005a732cc9c0613bdfb2aa2e3bc71f92
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:58:13+00:00'
+timestamp: '2024-02-29T19:19:45+00:00'
 requested_by: 2lambda123
 provider: github
 branch: main
@@ -109,7 +109,7 @@ tools:
   last_updated_by: Tigris of Gaul
   last_updated_on: 2021-06-26 19:39:13.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.3.2
   license: MIT
